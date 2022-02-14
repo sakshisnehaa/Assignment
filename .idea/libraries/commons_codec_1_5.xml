@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/poi-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/poi-examples-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/poi-excelant-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/poi-ooxml-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/poi-ooxml-schemas-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/poi-scratchpad-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-3.10-FINAL/xmlbeans-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
